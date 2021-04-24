@@ -1,2 +1,2 @@
-# strips-hackathon
-STRIPS Hackathon repo
+# STRIPS Finance
+STRIPS repo
